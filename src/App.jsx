@@ -11,7 +11,7 @@ function App() {
     <>
       <h1>Hello from Azure DevOps 🚀</h1>
       <p>My first CI/CD React App</p>
-      <p>Version 1.2</p>
+      <p>Version 1.4</p>
     </>
   )
 }
